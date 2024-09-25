@@ -33,5 +33,15 @@
     "id": 7,
     "title": "note 2 ",
     "text": "hello twice "
+  },
+  {
+    "id": 8,
+    "title": "welcome ",
+    "text": "Mr.noteman"
+  },
+  {
+    "id": 9,
+    "title": "hello",
+    "text": "hi"
   }
 ]
